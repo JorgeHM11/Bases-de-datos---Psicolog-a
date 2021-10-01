@@ -1,4 +1,4 @@
-# Bases de datos Psicología
+# Bases de datos sobre psicología
 Conjunto de bases de datos que abordan variables psicológicas
 
 **Lista de análisis realizados y faltantes**
