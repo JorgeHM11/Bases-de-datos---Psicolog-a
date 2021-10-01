@@ -1,7 +1,7 @@
 # Bases de datos Psicología
 Conjunto de bases de datos que abordan variables psicológicas
 
-**Análisis realizados y faltantes**
+**Lista de análisis realizados y faltantes**
 - [x] Descriptivos (frecuencias)
 - [x] Descriptivos (medidas de tendencia central)
 - [ ] Asociación de variables
