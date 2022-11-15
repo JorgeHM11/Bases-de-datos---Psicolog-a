@@ -11,4 +11,3 @@ Conjunto de bases de datos que abordan variables psicológicas
 - [ ] Regresión lineal simple
 - [ ] Regresión lineal múltiple
 - [x] Regresión logística binaria
-
